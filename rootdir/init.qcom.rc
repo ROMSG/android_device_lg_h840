@@ -27,6 +27,7 @@
 
 import init.qcom.ims.rc
 import init.qcom.power.rc
+import /vendor/etc/init/hw/init.${ro.product.device}.rc
 
 import init.target.rc
 
